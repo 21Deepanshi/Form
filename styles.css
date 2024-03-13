@@ -74,5 +74,8 @@ input[type="file"] {
 .inline{
   display: inline; 
 }
-
+a:link
+{
+  color: #dfdfe2;
+}
 
